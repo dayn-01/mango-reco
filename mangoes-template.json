@@ -1,0 +1,19 @@
+{
+    "mangoes": [
+        {
+            "title": "title is here",
+            "link": "put the link here uwu",
+            "description": "add a descrption here",
+            "image_link" : {
+                "main" : "put the link here uwu",
+                "backup" :  "put the link here uwu",
+                "default" : "put the link here uwu"
+            },
+            "genre" : [
+                "shoujo", 
+                "genre2",
+                "genre3"    
+            ]
+        }
+    ]
+}
